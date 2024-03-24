@@ -273,17 +273,4 @@
         "category": "pizzas"
       }
     ]
-  "datas":
-  [
-     {
-        "id": 31,
-        "name": "GARDEN VEGGIE PIZZA",
-        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/pizza-05.png",
-        "address": "city mall patna",
-        "orders": "525 +",
-        "price": 190,
-        "overview": "Mushrooms, onions, green peppers, black olives, tomatoes",
-        "category": "pizzas"
-      }
-  ]
 }
