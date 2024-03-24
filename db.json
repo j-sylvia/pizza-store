@@ -349,17 +349,6 @@
         "overview": "Spicy sausage, pepperoni, red onion, tomatoes, basil",
         "category": "pizzas"
       },
-    {
-        "id": 30,
-        "name": "GARDEN VEGGIE PIZZA",
-        "rname": "Pizza Store",
-        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/pizza-05.png",
-        "address": "city mall patna",
-        "somedata": "525 + order placed from here recently",
-        "price": 190,
-        "rating": "4.3",
-        "overview": "Mushrooms, onions, green peppers, black olives, tomatoes",
-        "category": "pizzas"
-      },
+    
     ]
 }
