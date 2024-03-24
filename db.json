@@ -8,7 +8,6 @@
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/burger-01.png",
         "somedata": "1175+ order placed from here recently",
         "price": 350,
-        "rating": "3.8",
         "overview": "Fried chicken breast, chilli sauce, tomatoes, pickles, coleslaw",
         "category": "burgers"
       },
@@ -19,7 +18,6 @@
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/burger-02.png",
         "somedata": "2525 + order placed from here recently",
         "price": 140,
-        "rating": "3.9",
         "overview": "House beef patty, cheddar cheese, bacon, onion, mustard",
         "category": "burgers"
       },
@@ -30,7 +28,6 @@
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/burger-06.png",
         "somedata": "650 + order placed from here recently",
         "price": 170,
-        "rating": "4.2",
         "overview": "Beef patty, cheddar cheese, onion, lettuce, tomatoes, pickles",
         "category": "burgers"
       },
@@ -41,7 +38,6 @@
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/burger-05.png",
         "somedata": "300 + order placed from here recently",
         "price": 100,
-        "rating": "3.8",
         "overview": "Turkey, cheddar cheese, onion, lettuce, tomatoes, pickles",
         "category": "burgers"
       },
@@ -52,7 +48,6 @@
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/burger-03.png",
         "somedata": "1050 + order placed from here recently",
         "price": 210,
-        "rating": "4.0",
         "overview": "American cheese, tomato relish, avocado, lettuce, red onion",
         "category": "burgers"
       },
@@ -63,7 +58,6 @@
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/burger-04.png",
         "somedata": " 1100 + order placed from here recently",
         "price": 100,
-        "rating": "3.8",
         "overview": "2 beef patties, cheddar cheese, mustard, pickles, tomatoes",
         "category": "burgers"
       },
@@ -74,7 +68,6 @@
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/burger-07.png",
         "somedata": "500 + order placed from here recently",
         "price": 300,
-        "rating": "4.6",
         "overview": "Beef, cheddar cheese, ketchup, mustard, pickles, onion",
         "category": "burgers"
       },
@@ -85,7 +78,6 @@
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/burger-08.png",
         "somedata": "500 + order placed from here recently",
         "price": 100,
-        "rating": "3.2",
         "overview": "Mushroom patty, vegan cheese, lettuce, tomatoes, avocado",
         "category": "burgers"
       },
@@ -96,7 +88,6 @@
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/side-01.png",
         "somedata": "2525 + order placed from here recently",
         "price": 100,
-        "rating": "4.8",
         "overview": "Bread crumbs, egg, sour cream, seasoned salt, sweet",
         "category": "sides"
       },
@@ -107,7 +98,6 @@
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/side-02.png",
         "somedata": "525 + order placed from here recently",
         "price": 240,
-        "rating": "3",
         "overview": "Fries, maris piper, powder, garlic powder, olive oil",
         "category": "sides"
       },
@@ -118,7 +108,6 @@
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/side-03.png",
         "somedata": "525 + order placed from here recently",
         "price": 160,
-        "rating": "3.9",
         "overview": "Bread crumbs, mozarella cheese, eggs, garlic salt, italian seasoning",
         "category": "sides"
       },
@@ -129,7 +118,6 @@
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/side-04.png",
         "somedata": "525 + order placed from here recently",
         "price": 180,
-        "rating": "4.9",
         "overview": "Chicken, potato starch, bread crumbs, vegetable oil, seasoning mix",
         "category": "sides"
       },
@@ -140,7 +128,6 @@
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/side-05.png",
         "somedata": "525 + order placed from here recently",
         "price": 240,
-        "rating": "4.7",
         "overview": "Chicken breasts, wheat flour, bread crumbs, yogurt",
         "category": "sides"
       },
@@ -151,7 +138,6 @@
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/side-06.png",
         "somedata": "525 + order placed from here recently",
         "price": 260,
-        "rating": "4.3",
         "overview": "Chicken breast, eggs, avocado oil, flour",
         "category": "sides"
       },
@@ -162,7 +148,6 @@
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/side-07.png",
         "somedata": "525 + order placed from here recently",
         "price": 230,
-        "rating": "4.5",
         "overview": "Chicken breast, red wine vinegar, garlic, red pepper flakes",
         "category": "sides"
       },
@@ -173,7 +158,6 @@
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/side-08.png",
         "somedata": "525 + order placed from here recently",
         "price": 190,
-        "rating": "4.1",
         "overview": "Chicken wings, red hot sauce, garlic, sugar, sour cream",
         "category": "sides"
       },
@@ -184,7 +168,6 @@
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/salad-01.png",
         "somedata": "525 + order placed from here recently",
         "price": 170,
-        "rating": "4.4",
         "overview": "Tomatoes, cucumbers, olives, feta cheese, red onion, olive oil",
         "category": "salads"
       },
@@ -195,7 +178,6 @@
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/salad-02.png",
         "somedata": "525 + order placed from here recently",
         "price": 120,
-        "rating": "4.2",
         "overview": "Chicken breast, chilli sauce, lime juice, lettuce leaves, cucumber",
         "category": "salads"
       },
@@ -206,7 +188,6 @@
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/salad-03.png",
         "somedata": "525 + order placed from here recently",
         "price": 150,
-        "rating": "4.8",
         "overview": "Halloumi cheese, spinach, oranges, mint leaves, olive oil",
         "category": "salads"
       },
@@ -217,7 +198,6 @@
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/salad-04.png",
         "somedata": "525 + order placed from here recently",
         "price": 210,
-        "rating": "4.9",
         "overview": "Shrimps, scallions, mayonnaise, lemon,chili sauce, salt",
         "category": "salads"
       },
@@ -228,7 +208,6 @@
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/dessert-01.png",
         "somedata": "525 + order placed from here recently",
         "price": 280,
-        "rating": "4.7",
         "overview": "Strawberry, soft cheese, icing sugar, butter softened",
         "category": "desserts"
       },
@@ -239,7 +218,6 @@
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/dessert-02.png",
         "somedata": "525 + order placed from here recently",
         "price": 180,
-        "rating": "4.6",
         "overview": "Berries, Greek yogurt, ice cream, chocolate sauce, peanut butter",
         "category": "desserts"
       },
@@ -250,7 +228,6 @@
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/dessert-03.png",
         "somedata": "525 + order placed from here recently",
         "price": 260,
-        "rating": "4.9",
         "overview": "Strawberry, double cream, icing sugar, soft cheese, biscuits",
         "category": "desserts"
       },
@@ -261,7 +238,6 @@
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/dessert-04.png",
         "somedata": "525 + order placed from here recently",
         "price": 250,
-        "rating": "4.9",
         "overview": "Milk chocolate, icing sugar, cocoa powder, milk, vanilla extract",
         "category": "desserts"
       },
@@ -272,7 +248,6 @@
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/pizza-02.png",
         "somedata": "525 + order placed from here recently",
         "price": 180,
-        "rating": "4.3",
         "overview": "Sliced pepperoni, parmesan cheese, mozzarella cheese, sauce",
         "category": "pizzas"
       },
@@ -283,7 +258,6 @@
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/pizza-04.png",
         "somedata": "525 + order placed from here recently",
         "price": 220,
-        "rating": "4.2",
         "overview": "Buffalo sauce, mozzarella, red onion, chicken, ranch sauce",
         "category": "pizzas"
       },
@@ -294,7 +268,6 @@
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/pizza-03.png",
         "somedata": "525 + order placed from here recently",
         "price": 210,
-        "rating": "4.9",
         "overview": "Spicy sausage, pepperoni, red onion, tomatoes, basil",
         "category": "pizzas"
       },
@@ -305,7 +278,6 @@
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/pizza-06.png",
         "somedata": "525 + order placed from here recently",
         "price": 230,
-        "rating": "4.1",
         "overview": "Sausage, seasoned ground beef, pepperoni, ham, salami, bacone",
         "category": "pizzas"
       },
@@ -316,7 +288,6 @@
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/pizza-07.png",
         "somedata": "525 + order placed from here recently",
         "price": 200,
-        "rating": "4.9",
         "overview": "Spicy sausage, pepperoni, red onion, tomatoes, basil",
         "category": "pizzas"
       },
