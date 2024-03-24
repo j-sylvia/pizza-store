@@ -5,7 +5,7 @@
         "id": 1,
         "name": "CRISPY CHICKEN",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/burger-01.png",
-        "somedata": "1175+ order placed from here recently",
+        "orders": "1175+ order placed from here recently",
         "price": 350,
         "overview": "Fried chicken breast, chilli sauce, tomatoes, pickles, coleslaw",
         "category": "burgers"
@@ -14,7 +14,7 @@
         "id": 2,
         "name": "ULTIMATE BACON",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/burger-02.png",
-        "somedata": "2525 + order placed from here recently",
+        "orders": "2525 +",
         "price": 140,
         "overview": "House beef patty, cheddar cheese, bacon, onion, mustard",
         "category": "burgers"
@@ -23,7 +23,7 @@
         "id": 3,
         "name": "SMOKEY HOUSE",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/burger-06.png",
-        "somedata": "650 + order placed from here recently",
+        "orders": "650 +",
         "price": 170,
         "overview": "Beef patty, cheddar cheese, onion, lettuce, tomatoes, pickles",
         "category": "burgers"
@@ -32,7 +32,7 @@
         "id": 4,
         "name": "TURKEY BURGER",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/burger-05.png",
-        "somedata": "300 + order placed from here recently",
+        "orders": "300 +",
         "price": 100,
         "overview": "Turkey, cheddar cheese, onion, lettuce, tomatoes, pickles",
         "category": "burgers"
@@ -41,7 +41,7 @@
         "id": 5,
         "name": "BLACK SHEEP",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/burger-03.png",
-        "somedata": "1050 + order placed from here recently",
+        "orders": "1050 +",
         "price": 210,
         "overview": "American cheese, tomato relish, avocado, lettuce, red onion",
         "category": "burgers"
@@ -50,7 +50,7 @@
         "id": 6,
         "name": "DOUBLE BURGER",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/burger-04.png",
-        "somedata": " 1100 + order placed from here recently",
+        "orders": " 1100 +",
         "price": 100,
         "overview": "2 beef patties, cheddar cheese, mustard, pickles, tomatoes",
         "category": "burgers"
@@ -59,7 +59,7 @@
         "id": 7,
         "name": "CLASSIC BURGER",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/burger-07.png",
-        "somedata": "500 + order placed from here recently",
+        "orders": "500 +",
         "price": 300,
         "overview": "Beef, cheddar cheese, ketchup, mustard, pickles, onion",
         "category": "burgers"
@@ -68,7 +68,7 @@
         "id": 8,
         "name": "VEGAN BURGER",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/burger-08.png",
-        "somedata": "500 + order placed from here recently",
+        "orders": "500 +",
         "price": 100,
         "overview": "Mushroom patty, vegan cheese, lettuce, tomatoes, avocado",
         "category": "burgers"
@@ -77,7 +77,7 @@
         "id": 9,
         "name": "ONION RINGS",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/side-01.png",
-        "somedata": "2525 + order placed from here recently",
+        "orders": "2525 +",
         "price": 100,
         "overview": "Bread crumbs, egg, sour cream, seasoned salt, sweet",
         "category": "sides"
@@ -86,7 +86,7 @@
         "id": 10,
         "name": "FRENCH FRIES",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/side-02.png",
-        "somedata": "525 + order placed from here recently",
+        "orders": "525 +",
         "price": 240,
         "overview": "Fries, maris piper, powder, garlic powder, olive oil",
         "category": "sides"
@@ -95,7 +95,7 @@
         "id": 11,
         "name": "MOZARELLA STICKS",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/side-03.png",
-        "somedata": "525 + order placed from here recently",
+        "orders": "525 +",
         "price": 160,
         "overview": "Bread crumbs, mozarella cheese, eggs, garlic salt, italian seasoning",
         "category": "sides"
@@ -104,7 +104,7 @@
         "id": 12,
         "name": "CRISPY CHICKEN",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/side-04.png",
-        "somedata": "525 + order placed from here recently",
+        "orders": "525 +",
         "price": 180,
         "overview": "Chicken, potato starch, bread crumbs, vegetable oil, seasoning mix",
         "category": "sides"
@@ -113,7 +113,7 @@
         "id": 13,
         "name": "CHICKEN NUGGETS",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/side-05.png",
-        "somedata": "525 + order placed from here recently",
+        "orders": "525 +",
         "price": 240,
         "overview": "Chicken breasts, wheat flour, bread crumbs, yogurt",
         "category": "sides"
@@ -122,7 +122,7 @@
         "id": 14,
         "name": "CHICKEN FINGERS",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/side-06.png",
-        "somedata": "525 + order placed from here recently",
+        "orders": "525 +",
         "price": 260,
         "overview": "Chicken breast, eggs, avocado oil, flour",
         "category": "sides"
@@ -131,7 +131,7 @@
         "id": 15,
         "name": "GRILLED CHICKEN",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/side-07.png",
-        "somedata": "525 + order placed from here recently",
+        "orders": "525 +",
         "price": 230,
         "overview": "Chicken breast, red wine vinegar, garlic, red pepper flakes",
         "category": "sides"
@@ -140,7 +140,7 @@
         "id": 16,
         "name": "BUFFALO WINGS",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/side-08.png",
-        "somedata": "525 + order placed from here recently",
+        "orders": "525 +",
         "price": 190,
         "overview": "Chicken wings, red hot sauce, garlic, sugar, sour cream",
         "category": "sides"
@@ -149,7 +149,7 @@
         "id": 17,
         "name": "GREEK SALAD",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/salad-01.png",
-        "somedata": "525 + order placed from here recently",
+        "orders": "525 +",
         "price": 170,
         "overview": "Tomatoes, cucumbers, olives, feta cheese, red onion, olive oil",
         "category": "salads"
@@ -158,7 +158,7 @@
         "id": 18,
         "name": "CHICKEN SALAD",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/salad-02.png",
-        "somedata": "525 + order placed from here recently",
+        "orders": "525 +",
         "price": 120,
         "overview": "Chicken breast, chilli sauce, lime juice, lettuce leaves, cucumber",
         "category": "salads"
@@ -167,7 +167,7 @@
         "id": 19,
         "name": "SPINACH SALAD",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/salad-03.png",
-        "somedata": "525 + order placed from here recently",
+        "orders": "525 +",
         "price": 150,
         "overview": "Halloumi cheese, spinach, oranges, mint leaves, olive oil",
         "category": "salads"
@@ -176,7 +176,7 @@
         "id": 20,
         "name": "SEAFOOD SALAD",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/salad-04.png",
-        "somedata": "525 + order placed from here recently",
+        "orders": "525 +",
         "price": 210,
         "overview": "Shrimps, scallions, mayonnaise, lemon,chili sauce, salt",
         "category": "salads"
@@ -185,7 +185,7 @@
         "id": 21,
         "name": "STRAWBERRY CAKEN",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/dessert-01.png",
-        "somedata": "525 + order placed from here recently",
+        "orders": "525 +",
         "price": 280,
         "overview": "Strawberry, soft cheese, icing sugar, butter softened",
         "category": "desserts"
@@ -194,7 +194,7 @@
         "id": 22,
         "name": "BELGIAN WAFFLE",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/dessert-02.png",
-        "somedata": "525 + order placed from here recently",
+        "orders": "525 +",
         "price": 180,
         "overview": "Berries, Greek yogurt, ice cream, chocolate sauce, peanut butter",
         "category": "desserts"
@@ -203,7 +203,7 @@
         "id": 23,
         "name": "CHEESE CAKE",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/dessert-03.png",
-        "somedata": "525 + order placed from here recently",
+        "orders": "525 +",
         "price": 260,
         "overview": "Strawberry, double cream, icing sugar, soft cheese, biscuits",
         "category": "desserts"
@@ -212,7 +212,7 @@
         "id": 24,
         "name": "CHOCOLATE CAKE",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/dessert-04.png",
-        "somedata": "525 + order placed from here recently",
+        "orders": "525 +",
         "price": 250,
         "overview": "Milk chocolate, icing sugar, cocoa powder, milk, vanilla extract",
         "category": "desserts"
@@ -221,7 +221,7 @@
         "id": 25,
         "name": "PEPPERONI PIZZA",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/pizza-02.png",
-        "somedata": "525 + order placed from here recently",
+        "orders": "525 +",
         "price": 180,
         "overview": "Sliced pepperoni, parmesan cheese, mozzarella cheese, sauce",
         "category": "pizzas"
@@ -230,7 +230,7 @@
         "id": 26,
         "name": "BUFFALO CHICKEN PIZZA",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/pizza-04.png",
-        "somedata": "525 + order placed from here recently",
+        "orders": "525 +",
         "price": 220,
         "overview": "Buffalo sauce, mozzarella, red onion, chicken, ranch sauce",
         "category": "pizzas"
@@ -239,7 +239,7 @@
         "id": 27,
         "name": "SPICY BBQ CHICKEN PIZZA",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/pizza-03.png",
-        "somedata": "525 + order placed from here recently",
+        "orders": "525 +",
         "price": 210,
         "overview": "Spicy sausage, pepperoni, red onion, tomatoes, basil",
         "category": "pizzas"
@@ -248,7 +248,7 @@
         "id": 28,
         "name": "ULTIMATE MEAT PIZZA",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/pizza-06.png",
-        "somedata": "525 + order placed from here recently",
+        "orders": "525 +",
         "price": 230,
         "overview": "Sausage, seasoned ground beef, pepperoni, ham, salami, bacone",
         "category": "pizzas"
@@ -257,7 +257,7 @@
         "id": 29,
         "name": "FIREHOUSE PIZZA",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/pizza-07.png",
-        "somedata": "525 + order placed from here recently",
+        "orders": "525 +",
         "price": 200,
         "overview": "Spicy sausage, pepperoni, red onion, tomatoes, basil",
         "category": "pizzas"
@@ -267,7 +267,7 @@
         "name": "GARDEN VEGGIE PIZZA",
         "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/pizza-05.png",
         "address": "city mall patna",
-        "somedata": "525 + order placed from here recently",
+        "orders": "525 +",
         "price": 190,
         "overview": "Mushrooms, onions, green peppers, black olives, tomatoes",
         "category": "pizzas"
