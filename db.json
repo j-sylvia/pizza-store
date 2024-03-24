@@ -11,7 +11,7 @@
         "price": 350,
         "rating": "3.8",
         "overview": "Fried chicken breast, chilli sauce, tomatoes, pickles, coleslaw",
-        "category": "burger"
+        "category": "burgers"
       },
       {
         "id": 2,
@@ -23,7 +23,7 @@
         "price": 140,
         "rating": "3.9",
         "overview": "House beef patty, cheddar cheese, bacon, onion, mustard",
-        "category": "burger"
+        "category": "burgers"
       },
       {
         "id": 3,
@@ -35,7 +35,7 @@
         "price": 170,
         "rating": "4.2",
         "overview": "Beef patty, cheddar cheese, onion, lettuce, tomatoes, pickles",
-        "category": "burger"
+        "category": "burgers"
       },
       {
         "id": 4,
@@ -47,139 +47,319 @@
         "price": 100,
         "rating": "3.8",
         "overview": "Turkey, cheddar cheese, onion, lettuce, tomatoes, pickles",
-        "category": "burger"
+        "category": "burgers"
       },
       {
         "id": 5,
-        "name": "",
+        "name": "BLACK SHEEP",
         "rname": "Burger House",
-        "imgdata": "",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/burger-03.png",
         "address": "Near Patna University",
         "somedata": "1050 + order placed from here recently",
         "price": 210,
         "rating": "4.0",
-        "overview": "Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
-        "category": "burger"
+        "overview": "American cheese, tomato relish, avocado, lettuce, red onion",
+        "category": "burgers"
       },
       {
         "id": 6,
-        "name": "",
+        "name": "DOUBLE BURGER",
         "rname": "Burger King",
-        "imgdata": "https://b.zmtcdn.com/data/pictures/5/113895/3c06f6fbb8f667a2537dfdb6f060dc8b_o2_featured_v2.jpg",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/burger-04.png",
         "address": "rajendra nagar terminal",
         "somedata": " 1100 + order placed from here recently",
         "price": 100,
         "rating": "3.8",
-        "overview": "Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
-        "qnty": 0
+        "overview": "2 beef patties, cheddar cheese, mustard, pickles, tomatoes",
+        "category": "burgers"
       },
       {
         "id": 7,
-        "name": "Idli & dhosa",
+        "name": "CLASSIC BURGER",
         "rname": "Hocco Eatery",
-        "imgdata": "https://b.zmtcdn.com/data/pictures/chains/5/110155/811c01a5430d50d3260f77917da99e12_o2_featured_v2.jpg",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/burger-07.png",
         "address": "gandhi maidan patna",
         "somedata": "500 + order placed from here recently",
         "price": 300,
         "rating": "4.6",
-        "overview": "Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
-        "qnty": 0
+        "overview": "Beef, cheddar cheese, ketchup, mustard, pickles, onion",
+        "category": "burgers"
       },
       {
         "id": 8,
-        "name": "Elaichi Tea",
-        "rname": "Chai Wai",
-        "imgdata": "https://b.zmtcdn.com/data/pictures/3/18514413/0a17b72e9fec52a3ca736f4c2ea3646f_o2_featured_v2.jpg",
+        "name": "VEGAN BURGER",
+        "rname": "Momoman",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/burger-08.png",
         "address": "Boring Road patna",
         "somedata": "500 + order placed from here recently",
         "price": 100,
         "rating": "3.2",
-        "overview": " Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
-        "qnty": 0
+        "overview": "Mushroom patty, vegan cheese, lettuce, tomatoes, avocado",
+        "category": "burgers"
       },
       {
         "id": 9,
-        "name": "paneer Roll",
+        "name": "ONION RINGS",
         "rname": "HL Frankie",
-        "imgdata": "https://b.zmtcdn.com/data/pictures/7/19639627/94c0a4cf15c02d3982d154e2c5dd8cbb_o2_featured_v2.jpg",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/side-01.png",
         "address": "Khajanchi Road",
         "somedata": "2525 + order placed from here recently",
         "price": 100,
         "rating": "4.8",
         "overview": "Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
-        "qnty": 0
+        "category": "sides"
       },
       {
         "id": 10,
-        "name": "kheer paneer poori",
-        "rname": "cookie bar",
-        "imgdata": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbFFNmlyOCe3cv8_Myh0ZU7Y1v3L5yt0pNZA&usqp=CAU",
+        "name": "FRENCH FRIES",
+        "rname": "Pizza Corner",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/side-02.png",
         "address": "Bihta patna",
         "somedata": "525 + order placed from here recently",
         "price": 240,
         "rating": "3",
         "overview": "Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
-        "qnty": 0
+        "category": "sides"
       },
       {
         "id": 11,
-        "name": "wada pao Vaji",
+        "name": "MOZARELLA STICKS",
         "rname": "RFC",
-        "imgdata": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLC9ymeyzzCNCwg7xYnNmOtZHfdApNEd2XNAqZxvFwIGyyCzOiYdGK-BdMYwkg2QAG0dk&usqp=CAU",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/side-03.png",
         "address": "city mall patna",
         "somedata": "525 + order placed from here recently",
         "price": 160,
-        "rating": "3.8",
+        "rating": "3.9",
         "overview": "Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
-        "qnty": 0
+        "category": "sides"
       },
     {
         "id": 12,
-        "name": "Chicken Briyani",
+        "name": "CRISPY CHICKEN",
         "rname": "RFC",
-        "imgdata": "https://yazhli.com/wp-content/uploads/2023/10/BRIYANI.jpg",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/side-04.png",
         "address": "city mall patna",
         "somedata": "525 + order placed from here recently",
-        "price": 130,
-        "rating": "4.8",
+        "price": 180,
+        "rating": "4.9",
         "overview": "Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
-        "qnty": 0
+        "category": "sides"
       },
     {
         "id": 13,
-        "name": "Mutton Briyani",
+        "name": "CHICKEN NUGGETS",
         "rname": "RFC",
-        "imgdata": "https://www.chefkunalkapur.com/wp-content/uploads/2021/03/Gosht-Biryani-1300x868.jpeg",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/side-05.png",
         "address": "city mall patna",
         "somedata": "525 + order placed from here recently",
-        "price": 130,
-        "rating": "4.8",
+        "price": 240,
+        "rating": "4.7",
         "overview": "Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
-        "qnty": 0
+        "category": "sides"
       },
     {
         "id": 14,
-        "name": "Fried Rice",
-        "rname": "RFC",
-        "imgdata": "https://yellowchilis.com/wp-content/uploads/2020/12/indian-vegetable-egg-masala-fried-rice-480x270.jpg",
+        "name": "CHICKEN FINGERS",
+        "rname": "KFC",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/side-06.png",
         "address": "city mall patna",
         "somedata": "525 + order placed from here recently",
-        "price": 130,
-        "rating": "4.8",
+        "price": 260,
+        "rating": "4.3",
         "overview": "Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
-        "qnty": 0
+        "category": "sides"
       },
     {
         "id": 15,
-        "name": "Noodles",
-        "rname": "RFC",
-        "imgdata": "https://img.freepik.com/premium-photo/fried-noodles-plate_756748-29368.jpg",
+        "name": "GRILLED CHICKEN",
+        "rname": "KFC",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/side-07.png",
         "address": "city mall patna",
         "somedata": "525 + order placed from here recently",
-        "price": 130,
-        "rating": "4.8",
+        "price": 230,
+        "rating": "4.5",
         "overview": "Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
-        "qnty": 0
-      }
+        "category": "sides"
+      },
+    {
+        "id": 16,
+        "name": "BUFFALO WINGS",
+        "rname": "RFC",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/side-08.png",
+        "address": "city mall patna",
+        "somedata": "525 + order placed from here recently",
+        "price": 190,
+        "rating": "4.1",
+        "overview": "Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining. It can be expensive but worth it and they do different deals on different nights so it’s worth checking them out before you book. Highly recommended.",
+        "category": "sides"
+      },
+    {
+        "id": 17,
+        "name": "GREEK SALAD",
+        "rname": "Mubarak",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/salad-01.png",
+        "address": "city mall patna",
+        "somedata": "525 + order placed from here recently",
+        "price": 170,
+        "rating": "4.4",
+        "overview": "Tomatoes, cucumbers, olives, feta cheese, red onion, olive oil",
+        "category": "salads"
+      },
+    {
+        "id": 18,
+        "name": "CHICKEN SALAD",
+        "rname": "Chicken Corner",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/salad-02.png",
+        "address": "city mall patna",
+        "somedata": "525 + order placed from here recently",
+        "price": 120,
+        "rating": "4.2",
+        "overview": "Chicken breast, chilli sauce, lime juice, lettuce leaves, cucumber",
+        "category": "salads"
+      },
+    {
+        "id": 19,
+        "name": "SPINACH SALAD",
+        "rname": "City Mall",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/salad-03.png",
+        "address": "city mall patna",
+        "somedata": "525 + order placed from here recently",
+        "price": 150,
+        "rating": "4.8",
+        "overview": "Halloumi cheese, spinach, oranges, mint leaves, olive oil",
+        "category": "salads"
+      },
+    {
+        "id": 20,
+        "name": "SEAFOOD SALAD",
+        "rname": "Mubarak",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/salad-04.png",
+        "address": "city mall patna",
+        "somedata": "525 + order placed from here recently",
+        "price": 210,
+        "rating": "4.9",
+        "overview": "Shrimps, scallions, mayonnaise, lemon,chili sauce, salt",
+        "category": "salads"
+      },
+    {
+        "id": 21,
+        "name": "STRAWBERRY CAKEN",
+        "rname": "Cake Shop",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/dessert-01.png",
+        "address": "city mall patna",
+        "somedata": "525 + order placed from here recently",
+        "price": 280,
+        "rating": "4.7",
+        "overview": "Strawberry, soft cheese, icing sugar, butter softened",
+        "category": "desserts"
+      },
+    {
+        "id": 22,
+        "name": "BELGIAN WAFFLE",
+        "rname": "Italian Cake Shop",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/dessert-02.png",
+        "address": "city mall patna",
+        "somedata": "525 + order placed from here recently",
+        "price": 180,
+        "rating": "4.6",
+        "overview": "Berries, Greek yogurt, ice cream, chocolate sauce, peanut butter",
+        "category": "desserts"
+      },
+    {
+        "id": 23,
+        "name": "CHEESE CAKE",
+        "rname": "Cake World",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/dessert-03.png",
+        "address": "city mall patna",
+        "somedata": "525 + order placed from here recently",
+        "price": 260,
+        "rating": "4.9",
+        "overview": "Strawberry, double cream, icing sugar, soft cheese, biscuits",
+        "category": "desserts"
+      },
+    {
+        "id": 24,
+        "name": "CHOCOLATE CAKE",
+        "rname": "Cake Shop",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/dessert-04.png",
+        "address": "city mall patna",
+        "somedata": "525 + order placed from here recently",
+        "price": 250,
+        "rating": "4.9",
+        "overview": "Milk chocolate, icing sugar, cocoa powder, milk, vanilla extract",
+        "category": "desserts"
+      },
+    {
+        "id": 25,
+        "name": "PEPPERONI PIZZA",
+        "rname": "Pizza Hut",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/pizza-02.png",
+        "address": "city mall patna",
+        "somedata": "525 + order placed from here recently",
+        "price": 180,
+        "rating": "4.3",
+        "overview": "Sliced pepperoni, parmesan cheese, mozzarella cheese, sauce",
+        "category": "pizzas"
+      },
+    {
+        "id": 26,
+        "name": "BUFFALO CHICKEN PIZZA",
+        "rname": "Burger Heist",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/pizza-04.png",
+        "address": "city mall patna",
+        "somedata": "525 + order placed from here recently",
+        "price": 220,
+        "rating": "4.2",
+        "overview": "Buffalo sauce, mozzarella, red onion, chicken, ranch sauce",
+        "category": "pizzas"
+      },
+    {
+        "id": 27,
+        "name": "SPICY BBQ CHICKEN PIZZA",
+        "rname": "Pizza House",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/pizza-03.png",
+        "address": "city mall patna",
+        "somedata": "525 + order placed from here recently",
+        "price": 210,
+        "rating": "4.9",
+        "overview": "Spicy sausage, pepperoni, red onion, tomatoes, basil",
+        "category": "pizzas"
+      },
+    {
+        "id": 28,
+        "name": "ULTIMATE MEAT PIZZA",
+        "rname": "Pizza Shop",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/pizza-06.png",
+        "address": "city mall patna",
+        "somedata": "525 + order placed from here recently",
+        "price": 230,
+        "rating": "4.1",
+        "overview": "Sausage, seasoned ground beef, pepperoni, ham, salami, bacone",
+        "category": "pizzas"
+      },
+    {
+        "id": 29,
+        "name": "FIREHOUSE PIZZA",
+        "rname": "Pizza Hut",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/pizza-07.png",
+        "address": "city mall patna",
+        "somedata": "525 + order placed from here recently",
+        "price": 200,
+        "rating": "4.9",
+        "overview": "Spicy sausage, pepperoni, red onion, tomatoes, basil",
+        "category": "pizzas"
+      },
+    {
+        "id": 30,
+        "name": "GARDEN VEGGIE PIZZA",
+        "rname": "Pizza Store",
+        "imgdata": "https://jthemes.net/themes/html/testo/files/images/menu/pizza-05.png",
+        "address": "city mall patna",
+        "somedata": "525 + order placed from here recently",
+        "price": 190,
+        "rating": "4.3",
+        "overview": "Mushrooms, onions, green peppers, black olives, tomatoes",
+        "category": "pizzas"
+      },
     ]
 }
